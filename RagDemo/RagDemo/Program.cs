@@ -40,24 +40,24 @@ public class Program
         float[] questionVector =
         embedding.Generate(question);
 
-        var result = sql.GetAll()
-        .Select(x => new
-        {
-            x.ChunkText,
-            x.FileName,
-            Score =
-            SimilarityHelper.CosineSimilarity(
-                questionVector,
-                x.Embedding)
-        })
-        .OrderByDescending(x => x.Score)
-        .Take(3);
+        List<SearchResult> result = sql.GetAll()
+          .Select(x => new SearchResult
+          {
+              ChunkText = x.ChunkText,
+              FileName = x.FileName,
+              SimilarityScore = SimilarityHelper.CosineSimilarity(
+                                  questionVector,
+                                  x.Embedding)
+          })
+          .OrderByDescending(x => x.SimilarityScore)
+          .Take(3)
+          .ToList();
 
         Console.WriteLine();
 
         foreach (var item in result)
         {
-            Console.WriteLine($"Score: {item.Score}, File: {item.FileName}");
+            Console.WriteLine($"Score: {item.SimilarityScore}, File: {item.FileName}");
             Console.WriteLine(item.ChunkText);
             Console.WriteLine("--------------------------------");
         }
@@ -66,7 +66,7 @@ public class Program
     private static void EmbeedNewFile(SqlHelper sql, EmbeddingService embedding)
     {
         //string pdf = PdfReader.Read(@"D:\GitHub\RagDemo\RagDemo\RagDemo\Docs\Exchange.pdf");
-        string filepath= @"D:\GitHub\RagDemo\RagDemo\RagDemo\Docs\CML75019.pdf";
+        string filepath = @"D:\GitHub\RagDemo\RagDemo\RagDemo\Docs\CML75019.pdf";
         string filename = Path.GetFileName(filepath);
         string pdf = PdfReader.Read(filepath);
 
@@ -77,7 +77,7 @@ public class Program
         {
             float[] vector = embedding.Generate(chunk);
 
-            sql.Insert(filename, _chunkcount,chunk, vector);
+            sql.Insert(filename, _chunkcount, chunk, vector);
             _chunkcount++;
         }
         Console.WriteLine("PDF Indexed.");
