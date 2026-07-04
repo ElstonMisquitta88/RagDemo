@@ -2,6 +2,10 @@
 
 ## Overview
 
+
+<img width="1462" height="502" alt="RAG_output" src="https://github.com/user-attachments/assets/c7a91477-5607-4d44-8a29-89b225df9504" />
+
+
 This project demonstrates a **Retrieval-Augmented Generation (RAG)**
 application built using **C# (.NET)**.
 
