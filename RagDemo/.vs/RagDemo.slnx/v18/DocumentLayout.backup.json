@@ -3,31 +3,15 @@
   "WorkspaceRootPath": "D:\\GitHub\\RagDemo\\RagDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|d:\\github\\ragdemo\\ragdemo\\ragdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|solutionrelative:ragdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|d:\\github\\ragdemo\\ragdemo\\ragdemo\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|solutionrelative:ragdemo\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|d:\\github\\ragdemo\\ragdemo\\ragdemo\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|solutionrelative:ragdemo\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|d:\\github\\ragdemo\\ragdemo\\ragdemo\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|solutionrelative:ragdemo\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B63EC238-C020-7324-A97B-4852BADDE062}|RagDemo\\RagDemo.csproj|d:\\github\\ragdemo\\ragdemo\\ragdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63EC238-C020-7324-A97B-4852BADDE062}|RagDemo\\RagDemo.csproj|solutionrelative:ragdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elston\\AppData\\Roaming\\Microsoft\\UserSecrets\\268404d4-3e3f-461d-a0f3-19704ee84b6f\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|d:\\github\\ragdemo\\ragdemo\\ragdemo\\textchunker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|solutionrelative:ragdemo\\textchunker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|d:\\github\\ragdemo\\ragdemo\\ragdemo\\pdfreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB89811-E31F-4074-9AE4-E82C21F624BB}|RagDemo\\RagDemo.csproj|solutionrelative:ragdemo\\pdfreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B63EC238-C020-7324-A97B-4852BADDE062}|RagDemo\\RagDemo.csproj|d:\\github\\ragdemo\\ragdemo\\ragdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B63EC238-C020-7324-A97B-4852BADDE062}|RagDemo\\RagDemo.csproj|solutionrelative:ragdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,26 +45,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\Elston\\AppData\\Roaming\\Microsoft\\UserSecrets\\268404d4-3e3f-461d-a0f3-19704ee84b6f\\secrets.json",
-              "ToolTip": "C:\\Users\\Elston\\AppData\\Roaming\\Microsoft\\UserSecrets\\268404d4-3e3f-461d-a0f3-19704ee84b6f\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "RagDemo\\appsettings.json",
+              "ToolTip": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\appsettings.json",
+              "RelativeToolTip": "RagDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-02T16:09:51.311Z",
+              "WhenOpened": "2026-07-04T12:19:11.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SqlHelper.cs",
-              "DocumentMoniker": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\SqlHelper.cs",
-              "RelativeDocumentMoniker": "RagDemo\\SqlHelper.cs",
-              "ToolTip": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\SqlHelper.cs",
-              "RelativeToolTip": "RagDemo\\SqlHelper.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwD4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T15:59:14.605Z",
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Elston\\AppData\\Roaming\\Microsoft\\UserSecrets\\268404d4-3e3f-461d-a0f3-19704ee84b6f\\secrets.json",
+              "ToolTip": "C:\\Users\\Elston\\AppData\\Roaming\\Microsoft\\UserSecrets\\268404d4-3e3f-461d-a0f3-19704ee84b6f\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-02T16:09:51.311Z",
               "EditorCaption": ""
             },
             {
@@ -91,61 +75,9 @@
               "RelativeDocumentMoniker": "RagDemo\\Program.cs",
               "ToolTip": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\Program.cs",
               "RelativeToolTip": "RagDemo\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAADgvzYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T15:21:54.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmbeddingService.cs",
-              "DocumentMoniker": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\EmbeddingService.cs",
-              "RelativeDocumentMoniker": "RagDemo\\EmbeddingService.cs",
-              "ToolTip": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\EmbeddingService.cs",
-              "RelativeToolTip": "RagDemo\\EmbeddingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T15:19:50.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TextChunker.cs",
-              "DocumentMoniker": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\TextChunker.cs",
-              "RelativeDocumentMoniker": "RagDemo\\TextChunker.cs",
-              "ToolTip": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\TextChunker.cs",
-              "RelativeToolTip": "RagDemo\\TextChunker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T15:19:37.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Chunk.cs",
-              "DocumentMoniker": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\Chunk.cs",
-              "RelativeDocumentMoniker": "RagDemo\\Chunk.cs",
-              "ToolTip": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\Chunk.cs",
-              "RelativeToolTip": "RagDemo\\Chunk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T15:15:27.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PdfReader.cs",
-              "DocumentMoniker": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\PdfReader.cs",
-              "RelativeDocumentMoniker": "RagDemo\\PdfReader.cs",
-              "ToolTip": "D:\\GitHub\\RagDemo\\RagDemo\\RagDemo\\PdfReader.cs",
-              "RelativeToolTip": "RagDemo\\PdfReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T15:14:48.227Z",
               "EditorCaption": ""
             }
           ]

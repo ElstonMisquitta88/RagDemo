@@ -145,3 +145,9 @@ D:\GitHub\RagDemo\RagDemo\RagDemo\bin\Debug\net10.0\runtimes\win\lib\net9.0\Syst
 D:\GitHub\RagDemo\RagDemo\RagDemo\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
 D:\GitHub\RagDemo\RagDemo\RagDemo\bin\Debug\net10.0\appsettings.json
 D:\GitHub\RagDemo\RagDemo\RagDemo\bin\Debug\net10.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\GitHub\RagDemo\RagDemo\RagDemo\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\GitHub\RagDemo\RagDemo\RagDemo\bin\Debug\net10.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\GitHub\RagDemo\RagDemo\RagDemo\bin\Debug\net10.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\GitHub\RagDemo\RagDemo\RagDemo\bin\Debug\net10.0\OpenAI.dll
+D:\GitHub\RagDemo\RagDemo\RagDemo\bin\Debug\net10.0\System.ClientModel.dll
+D:\GitHub\RagDemo\RagDemo\RagDemo\bin\Debug\net10.0\System.Memory.Data.dll
